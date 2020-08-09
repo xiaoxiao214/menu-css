@@ -1,0 +1,44 @@
+{
+  "id": "1496222",
+  "name": "优酷",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11609590",
+      "name": "资源 18",
+      "font_class": "ziyuan",
+      "unicode": "e8f3",
+      "unicode_decimal": 59635
+    },
+    {
+      "icon_id": "11609596",
+      "name": "资源 22",
+      "font_class": "ziyuan1",
+      "unicode": "e8f5",
+      "unicode_decimal": 59637
+    },
+    {
+      "icon_id": "11609609",
+      "name": "资源 37",
+      "font_class": "ziyuan2",
+      "unicode": "e8f9",
+      "unicode_decimal": 59641
+    },
+    {
+      "icon_id": "11609620",
+      "name": "资源 48",
+      "font_class": "ziyuan3",
+      "unicode": "e8fc",
+      "unicode_decimal": 59644
+    },
+    {
+      "icon_id": "11609625",
+      "name": "资源 53",
+      "font_class": "ziyuan4",
+      "unicode": "e8fd",
+      "unicode_decimal": 59645
+    }
+  ]
+}
